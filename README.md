@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/kunospw/kunospw/main/Merah%20Muda%20Gradasi%20Personal%20programmer%20Linkedin%20Banner.png" alt="Dyah Puspo Rini Banner">
 </p>
 
-<h1 align="center">Hello, world! I'm Dyah Puspo---
+<h1 align="center">Hello, world! I'm Dyah Puspo Rini (Kuno/Dee)
 
 ### 💰 Looking for a Party Member?
 
